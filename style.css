@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    color: darkblue;
+}
+h1{
+    font-size: 50px;
+    background-color: chocolate;
+    font-family: cursive;
+    color: darkslateblue;
+}
+#app{
+    background-color: aquamarine;
+}
+#games{
+    background-color: chartreuse;
+}
+#chatbot{
+    background-color: cornsilk;
+}
